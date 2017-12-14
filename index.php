@@ -1,5 +1,13 @@
 <?php include('header.php'); ?>
 
+<?php 
+
+	$qry = 'SELECT event_date, app_name, subscriber_id, trial_duration FROM ' . TBL_SUBSCRIPTIONS . ' ORDER BY id';
+	$res = $mysqli->query($qry);
+	$resultArr = $res->fetch_all(MYSQLI_ASSOC);
+
+?>
+
 <br>
 <div class="col-md-4"></div>
 <div class="col-md-4">
@@ -18,6 +26,14 @@
 			<button type="submit" class="btn btn-primary">Upload</button>
 		</div>
 	</form>
+	<br><br>
+	<?php if ((isset($_GET['msg']) && $_GET['msg'] != '') || count($resultArr) > 0) {  ?>
+		<div align="center">
+			<a href="<?php echo 'view_data.php'; ?>">
+				<button type="button" class="btn btn-success" style="width:50%;">View Data</button>
+			</a>
+		</div>
+	<?php } ?>
 </div>
 <div class="col-md-4"></div>
 
