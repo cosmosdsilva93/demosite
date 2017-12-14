@@ -2,6 +2,7 @@
 #define all the constants here
 
 define('DB', 'demosite_db');
+define('TBL_SUBSCRIPTIONS', 'subscriptions');
 define('DS', '/');
 
 // domain name
@@ -13,4 +14,4 @@ $base_url = $domain . DS . WEBSITE_NAME . DS;
 define('BASE_URL', $base_url);
 
 //document root
-define('DOC_ROOT', $_SERVER['DOCUMENT_ROOT'] . '/' . WEBSITE_NAME);
+define('DOC_ROOT', $_SERVER['DOCUMENT_ROOT'] . DS . WEBSITE_NAME);

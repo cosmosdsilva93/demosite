@@ -1,0 +1,97 @@
+Event Date	App Name	App Apple ID	Subscription Name	Subscription Apple ID	Subscription Group ID	Subscription Duration	Trial Duration	Marketing Opt-In Duration	Customer Price	Customer Currency	Developer Proceeds	Proceeds Currency	Preserved Pricing	Proceeds Reason	Client	Device	Country	Subscriber ID	Subscriber ID Reset	Refund	Purchase Date	Units
+2017-12-07	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			370	INR	219.49	INR	 	 	 	iPad	IN	693154825510947				1
+2017-12-07	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			370	INR	219.49	INR	 	 	 	iPhone	IN	420260984812440				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			6.49	CAD	4.54	CAD	 	 	 	iPad	CA	637130745434899				1
+2017-12-07	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPhone	US	574213868309538				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	238242577126108				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPhone	US	161246429506514				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	USD	0	USD	 	 	 	iPhone	US	483180234920791				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			6.49	CAD	4.54	CAD	 	 	 	iPhone	CA	273259262278466				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	434242682626335				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	483161331643958				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPhone	US	245209216653809				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	USD	0	USD	 	 	 	iPad	US	210253703673162				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Yearly	1239353600	20389631	1 Year			34.99	USD	24.5	USD	 	 	 	iPad	US	623193271495391				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	511180865784710				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	USD	0	USD	 	 	 	iPad	US	427263405018249				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	USD	0	USD	 	 	 	iPad	US	553129164552176				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPhone	US	490162447112711				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	623178033631974				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	203238086343518				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPhone	US	504230799291613				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Yearly	1239353600	20389631	1 Year			-34.99	USD	24.5	USD	 	 	 	iPad	US	420253771769414		Yes	2017-11-05	1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	USD	0	USD	 	 	 	iPad	US	273260897435360				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	USD	0	USD	 	 	 	iPhone	US	266237754139688				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	497150414733835				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPhone	US	189236102582536				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	USD	0	USD	 	 	 	iPad	US	441237010461088				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	USD	0	USD	 	 	 	iPad	US	595229293757842				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	609184418597610				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	AED	0	AED	 	 	 	iPad	AE	546177256783083				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPhone	US	273234645203396				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Yearly	1239353600	20389631	1 Year			34.99	USD	24.5	USD	 	 	 	iPad	US	546175949873549				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Yearly	1239353600	20389631	1 Year	7 Days		0	USD	0	USD	 	 	 	iPhone	US	658158137651492				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	644184982653172				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			249	PHP	174.3	PHP	 	 	 	iPhone	PH	770138297055122				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	USD	0	USD	 	 	 	iPad	US	644199282341386				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	483161529811844				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	455215963567640				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	USD	0	USD	 	 	 	iPad	US	420262735633351				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			17.99	AED	12.59	AED	 	 	 	iPhone	AE	595213527551505				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	MYR	0	MYR	 	 	 	iPad	MY	238244056931337				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	602200232821210				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPhone	US	651168132583264				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	560241533088603				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPhone	US	574220243176491				1
+2017-12-07	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	210252247246218				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	462250254829988				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	448253122652827				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	USD	0	USD	 	 	 	iPhone	US	637144955263462				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPhone	US	784147873663268				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	238242536773607				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPhone	US	595227482256353				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	USD	0	USD	 	 	 	iPhone	US	217239846141411				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	686128391563988				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Yearly	1239353600	20389631	1 Year	7 Days		0	USD	0	USD	 	 	 	iPhone	US	623194833462014				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Yearly	1239353600	20389631	1 Year			34.99	USD	24.5	USD	 	 	 	iPad	US	252253769618468				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Yearly	1239353600	20389631	1 Year	7 Days		0	USD	0	USD	 	 	 	iPhone	US	238244186341170				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	USD	0	USD	 	 	 	iPad	US	273260955571445				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	476157987679187				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Yearly	1239353600	20389631	1 Year	7 Days		0	USD	0	USD	 	 	 	iPad	US	210253654834498				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Yearly	1239353600	20389631	1 Year	7 Days		0	USD	0	USD	 	 	 	iPhone	US	217239863440336				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	210229015665048				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	USD	0	USD	 	 	 	iPhone	US	189258660907374				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	161246524121510				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	BN	791121148795196				1
+2017-12-07	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPhone	US	784146153109524				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	630188666954310				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	INR	0	INR	 	 	 	iPhone	IN	245227871351878				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	609184197437937				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	553128369888446				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Yearly	1239353600	20389631	1 Year			34.99	USD	24.5	USD	 	 	 	iPhone	US	483178726243621				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	GBP	0	GBP	 	 	 	iPad	GB	616190740720025				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			6.49	CAD	4.54	CAD	 	 	 	iPad	CA	245209175469351				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Yearly	1239353600	20389631	1 Year	7 Days		0	USD	0	USD	 	 	 	iPad	US	469250302528086				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	USD	0	USD	 	 	 	iPad	US	532197449524729				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	MYR	0	MYR	 	 	 	iPad	MY	210253342642093				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	CAD	0	CAD	 	 	 	iPad	CA	525195712053707				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	USD	0	USD	 	 	 	iPhone	US	182252366515970				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	266236183412488				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	154246734526208				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	154258351172697				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	567216147048294				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPhone	US	504212953377604				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Yearly	1239353600	20389631	1 Year	7 Days		0	USD	0	USD	 	 	 	iPad	US	602201685824846				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPhone	US	273259155055385				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPhone	US	203245343442493				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Yearly	1239353600	20389631	1 Year			34.99	USD	24.5	USD	 	 	 	iPad	US	609190411891070				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPhone	US	490173752319351				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	462250346358845				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPad	US	266229733009557				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month	7 Days		0	USD	0	USD	 	 	 	iPad	US	203247140708208				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPhone	US	574220246083388				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPhone	US	700159816711364				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Yearly	1239353600	20389631	1 Year	7 Days		0	USD	0	USD	 	 	 	iPhone	US	581218146390583				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPhone	US	217231167542006				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Monthly	1239351135	20389631	1 Month			4.99	USD	3.5	USD	 	 	 	iPhone	US	686141131740444				1
+2017-12-06	Kiddopia - Kids Learning Games	1223397201	Kiddopia.Subscription.Yearly	1239353600	20389631	1 Year			34.99	USD	24.5	USD	 	 	 	iPad	US	574220340711908				1
