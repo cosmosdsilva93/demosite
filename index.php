@@ -20,7 +20,7 @@
 			</div>
 		<?php } ?>
 		<div class="form-group">
-			<input type="file" name="file[]" class="form-control" id="" multiple="multiple" placeholder="Select a file">
+			<input type="file" name="file[]" class="form-control" required="required" multiple="multiple" placeholder="Select a file">
 		</div>
 		<div align="center">
 			<button type="submit" class="btn btn-primary">Upload</button>
