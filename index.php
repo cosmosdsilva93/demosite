@@ -1,8 +1,10 @@
 <?php include('header.php'); ?>
 
-<?php 
-
-	$qry = 'SELECT event_date, app_name, subscriber_id, trial_duration FROM ' . TBL_SUBSCRIPTIONS . ' ORDER BY id';
+<?php
+	//a data check to ensure that the view data button is visible when there is already uploaded data in the db.
+	$qry = 'SELECT event_date, app_name, subscriber_id, trial_duration
+			FROM ' . TBL_SUBSCRIPTIONS . '
+			ORDER BY id';
 	$res = $mysqli->query($qry);
 	$resultArr = $res->fetch_all(MYSQLI_ASSOC);
 

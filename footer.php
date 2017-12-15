@@ -7,7 +7,7 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.3/highcharts.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/highcharts/6.0.3/js/modules/exporting.js"></script>
 		<script type="text/javascript">
-			
+			//code for the highchart
 			Highcharts.chart('highcharts', {
 			    chart: {
 			        type: 'column'
@@ -49,7 +49,7 @@
 
 			    }]
 			});
-		
+
 		</script>
 	</body>
 </html>

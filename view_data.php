@@ -1,19 +1,23 @@
 <?php include('header.php'); ?>
 
 
-<?php 
+<?php
 
-	$qry = 'SELECT event_date, app_name, subscriber_id, trial_duration FROM ' . TBL_SUBSCRIPTIONS . ' ORDER BY id';
+	$qry = 'SELECT event_date, app_name, subscriber_id, trial_duration
+			FROM ' . TBL_SUBSCRIPTIONS . '
+			ORDER BY id';
 	$res = $mysqli->query($qry);
 	$resultArr = $res->fetch_all(MYSQLI_ASSOC);
 
 	if (count($resultArr) > 0) {
 		foreach ($resultArr as $indx => $values) {
+			//since all the files have the same structure so extracting app name from the first file
 			if ($indx == 0) {
 				$appName = $values['app_name'];
 			}
-			$dataArr[$values['event_date']][] = $values;		
-		}	
+			$dataArr[$values['event_date']][] = $values;
+		}
+		//array manipulation as required for the highcharts: Start
 		if (isset($dataArr) && count($dataArr) > 0) {
 			foreach ($dataArr as $date => $valArr) {
 				$datesArr[] = $date;
@@ -37,6 +41,7 @@
 				}
 			}
 		}
+		//array manipulation as required for the highcharts: End
 	}else{
 		header('location: index.php');
     	exit();
